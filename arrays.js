@@ -5,4 +5,4 @@ var ingredient4 = "butter"
 var ingredient5 = "tomato"
 var ingredient6 = "garlic"
 
-arra
+var chocolateBars = ["snickers", "hundred grand", "kitkat", "skittles"]
