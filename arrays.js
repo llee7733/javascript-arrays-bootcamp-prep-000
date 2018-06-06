@@ -11,4 +11,9 @@ var chocolateBars = ["snickers", "hundred grand", "kitkat", "skittles"]
    return [element, ...array]
  }
  
+ function addElementToEndOfArray(array, element){
+  var newarray = [...array, element]
+   return newarray
+ }
+ 
  
